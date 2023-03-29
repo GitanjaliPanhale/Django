@@ -12,14 +12,14 @@ Template - The Template is a presentation layer which handles User Interface par
 
 * Installing django - \
 python -m pip install django \
-django-admin --version \
+django-admin --version 
 
 * To create new project - \
-python startproject project_name \
+python startproject project_name 
 
 * To run project - \
 python manage.py runserver \
 for changing port number of server \
-python manage.py runserver 8000 \
+python manage.py runserver 8000 
 
 ![image](https://user-images.githubusercontent.com/59504580/228592709-bad18d7f-95cd-47ca-9618-5e3f6878c007.png)
